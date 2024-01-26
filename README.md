@@ -22,12 +22,6 @@ If the code displays "No Vehicles," it indicates that the bus ETA is currently o
 Link to [USF Bull Runner Hours of Operation](https://www.usf.edu/administrative-services/parking/bull-runner/hours-of-operation.aspx)
 
 
-
-**DISCLAIMER: If the code displays "No Vehicles," it indicates that the bus ETA is currently outside of the USF Bull Runner Hours of Operations. Additionally, the displayed information reflects the metadata received from the API.**
-
-Link to Hours of Operation: https://www.usf.edu/administrative-services/parking/bull-runner/hours-of-operation.aspx
-
-
 ## Requirements
 
 - Python 3.x
