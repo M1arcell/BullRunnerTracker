@@ -10,3 +10,9 @@ This Project has been converted to Micropython. The decision to convert this pro
 Wokwi is a powerful online platform instrumental in constructing this MicroPython project. It offers a risk-free space for designing, testing, and simulating circuits, enhancing your learning experience as a student. By showcasing my skills in software development on embedded systems, this project demonstrates proficiency in writing optimized code for controllers—an essential skill in the field of cybersecurity.
 
 Link to Micropython Project: https://wokwi.com/projects/381869504327580673
+
+
+**DISCLAIMER: If the code displays "No Vehicles," it indicates that the bus ETA is currently outside of the USF Bull Runner Hours of Operations. Additionally, the displayed information reflects the metadata received from the API.**
+
+Link to Hours of Operation: https://www.usf.edu/administrative-services/parking/bull-runner/hours-of-operation.aspx
+
